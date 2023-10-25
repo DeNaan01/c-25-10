@@ -1,0 +1,11 @@
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\bin\Debug\monique e rery.exe.config
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\bin\Debug\monique e rery.exe
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\bin\Debug\monique e rery.pdb
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.csproj.AssemblyReference.cache
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.csproj.SuggestedBindingRedirects.cache
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique_e_rery.Form1.resources
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique_e_rery.Properties.Resources.resources
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.csproj.GenerateResource.cache
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.csproj.CoreCompileInputs.cache
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.exe
+C:\Users\reryel.nomota\source\repos\monique e rery\monique e rery\obj\Debug\monique e rery.pdb
